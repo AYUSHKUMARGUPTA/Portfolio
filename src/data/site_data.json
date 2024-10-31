@@ -1,0 +1,24 @@
+{
+    "header": {
+        "header_title1": "<Ayush ",
+        "header_title2": " Kumar Gupta/>"
+    },
+    "hero": {
+        "greetings": "Hello",
+        "name": "Ayush Kumar Gupta",
+        "role": "Full Stack Developer",
+        "years_of_experience": "6 Years of Experience",
+        "linkedin_url": "https://www.linkedin.com/in/ayushkgupta97/",
+        "github_url": "https://github.com/AYUSHKUMARGUPTA",
+        "whatsApp_url": "https://api.whatsapp.com/send/?phone=%2B14255311549&text=Hello+Ayush",
+        "telegram_url": "https://t.me/AKG9591"
+    },
+    "about": {
+        "title": "About Me",
+        "msg1": "Hi there! I am Ayush Kumar Gupta, a passionate software developer with 6 years of experience specializing in Web Development and building scalable, user-friendly digital solutions.",
+        "msg2": "With expertise in JavaScript, Angular, and React, I have successfully developed several web portals and platforms, enhancing both user experience and system performance.",
+        "msg3": "In my previous roles, I contributed to the development of ERP solutions at Epicor Software, focusing on inventory management, e-commerce, and warehouse mobility. I also designed advanced UI components and optimized API integrations, driving performance improvements. Additionally, I worked at Appinness Interactive Ltd, creating dynamic ad platforms with custom image-handling features.",
+        "msg4": "Currently, I am pursuing a Master’s in Computer Science at City University of Seattle, with a focus on Cloud Computing. Alongside my studies, I’m expanding my knowledge in AWS through the AWS Academy course to align my skills with modern cloud-based architectures. My goal is to grow into SDE2/SDE3 roles, leveraging my technical and collaborative experience to build impactful solutions at scale.",
+        "main_skill":"Here are my main skills:"
+    }
+}
