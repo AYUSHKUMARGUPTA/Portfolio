@@ -19,6 +19,25 @@
         "msg2": "With expertise in JavaScript, Angular, and React, I have successfully developed several web portals and platforms, enhancing both user experience and system performance.",
         "msg3": "In my previous roles, I contributed to the development of ERP solutions at Epicor Software, focusing on inventory management, e-commerce, and warehouse mobility. I also designed advanced UI components and optimized API integrations, driving performance improvements. Additionally, I worked at Appinness Interactive Ltd, creating dynamic ad platforms with custom image-handling features.",
         "msg4": "Currently, I am pursuing a Master’s in Computer Science at City University of Seattle, with a focus on Cloud Computing. Alongside my studies, I’m expanding my knowledge in AWS through the AWS Academy course to align my skills with modern cloud-based architectures. My goal is to grow into SDE2/SDE3 roles, leveraging my technical and collaborative experience to build impactful solutions at scale.",
-        "main_skill":"Here are my main skills:"
+        "main_skill": "Here are my main skills:"
+    },
+    "contact": {
+        "title": "Contact Me",
+        "title1": "Ready to get started on your project?",
+        "title2": "Contact me now for a Free consultation.",
+        "emailMsg": "Hello@ayushkg97@gmail.com",
+        "mailAddr": "mailto:Hello@ayushkg97@gmail.com",
+        "phoneNumber": "(+1) 425-531-1549",
+        "phoneLink": "tel:+14255311549"
+    },
+    "footer": {
+        "portfolioURL": "https://ayush-portfolio-48d81.web.app/",
+        "portfolioName": "Ayush Portfolio",
+        "footer_text": "This Website was made with",
+        "linkedin_url": "https://www.linkedin.com/in/ayushkgupta97/",
+        "github_url": "https://github.com/AYUSHKUMARGUPTA",
+        "whatsApp_url": "https://api.whatsapp.com/send/?phone=%2B14255311549&text=Hello+Ayush",
+        "telegram_url": "https://t.me/AKG9591",
+        "instagram_url": "https://www.instagram.com/_a_k_g_404"
     }
 }

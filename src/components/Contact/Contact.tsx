@@ -2,25 +2,25 @@ import { Container } from "./styles";
 import emailIcon from "../../assets/email-icon.svg";
 import phoneIcon from "../../assets/phone-icon.svg"
 import { Form } from "../Form/Form";
-
+import dataSource from '../../data/site_data.json';
 
 export function Contact(){
 
   return(
     <Container id="contact">
       <header>
-        <h2>Contact</h2>
-        <p>Ready to get started on your project? </p>
-        <p>Contact me now for a Free consultation.</p>
+        <h2>{dataSource.contact.title}</h2>
+        <p>{dataSource.contact.title1}</p>
+        <p>{dataSource.contact.title2}</p>
       </header>
       <div className="contacts">
         <div>
-        <a href="mailto:Hello@ayushkg97@gmail.com"><img src={emailIcon} alt="Email" /></a> 
-          <a href="mailto:ayushkg97@gmail.com">Hello@ayushkg97@gmail.com</a>
+        <a href={dataSource.contact.mailAddr}><img src={emailIcon} alt="Email" /></a> 
+          <a href={dataSource.contact.mailAddr}>{dataSource.contact.emailMsg}</a>
         </div>
         <div>
-        <a href="tel:+919630576848"><img src={phoneIcon} alt="Phone No" /></a>
-          <a href="tel:+919630576848">(+1) 4255311549</a>
+        <a href={dataSource.contact.phoneLink}><img src={phoneIcon} alt="Phone No" /></a>
+          <a href={dataSource.contact.phoneLink}>{dataSource.contact.phoneNumber}</a>
         </div>  
       </div>
       <Form></Form>
